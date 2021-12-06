@@ -1,0 +1,1 @@
+To jest plik, który chcemy sobie odczytać w zadaniu 5.
